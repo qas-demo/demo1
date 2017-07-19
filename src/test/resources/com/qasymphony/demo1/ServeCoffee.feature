@@ -9,3 +9,4 @@ Feature: Serve coffee
      And I previously had 100$ in the bank
      When I press the coffee button
      Then I should be served a coffee
+
